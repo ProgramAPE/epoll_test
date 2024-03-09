@@ -2,6 +2,11 @@
 name = "epoll_test"
 version = "0.1.0"
 edition = "2021"
+author = "dmicheal (shuiko1@163.com)"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/ProgramAPE/epoll_test.git"
+description = "a test lib for epoll kqueue project with some usefull lib"
+keywords = ["epoll", "kqueue"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
